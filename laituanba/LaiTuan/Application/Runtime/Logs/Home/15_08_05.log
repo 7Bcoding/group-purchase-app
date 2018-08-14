@@ -1,0 +1,51 @@
+[ 2015-08-05T12:07:12+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:09:53+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:10:45+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:11:50+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/publish.html
+ERR: 模板不存在:./Application/Home/View/Goods/publish.html
+
+[ 2015-08-05T12:27:28+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:44:28+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/show.html
+ERR: 模板不存在:./Application/Home/View/Goods/show.html
+
+[ 2015-08-05T12:47:24+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:47:33+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:48:14+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:48:17+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:49:45+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/pulish.html
+ERR: 非法操作:pulish
+
+[ 2015-08-05T12:51:43+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/publish.html
+ERR: Think\Model:publish方法不存在！
+
+[ 2015-08-05T12:59:14+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/publish.html
+ERR: Think\Model:publish方法不存在！
+
+[ 2015-08-05T14:38:42+08:00 ] 127.0.0.1 /LaiTuan/
+ERR: Think\Controller:order方法不存在！
+
+[ 2015-08-05T14:57:18+08:00 ] 127.0.0.1 /LaiTuan/index.php/Home/Goods/show.html
+ERR: Think\Model:display方法不存在！
+
+[ 2015-08-05T14:59:38+08:00 ] 127.0.0.1 /LaiTuan/Home/View/Goods/%7B:U('Goods/publish')%7D
+ERR: 无法加载控制器:View
+
+[ 2015-08-05T15:04:37+08:00 ] 127.0.0.1 /LaiTuan/Home/View/Goods/show.html
+ERR: 无法加载控制器:View
+
